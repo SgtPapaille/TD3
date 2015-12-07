@@ -1,0 +1,26 @@
+body{
+    background-image: url('../img/bodybg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    font-size: 30px;
+    text-decoration: underline;
+    color: coral;
+    text-align: center;
+    
+}
+.nom
+{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
